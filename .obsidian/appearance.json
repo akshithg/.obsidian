@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "SF Pro",
+  "textFontFamily": "SF Pro",
+  "monospaceFontFamily": "SauceCodePro Nerd Font Mono"
 }
