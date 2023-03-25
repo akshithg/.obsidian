@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
-  "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true
 }

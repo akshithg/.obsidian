@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "system",
   "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "SF Pro",
-  "textFontFamily": "SF Pro",
+  "interfaceFontFamily": "SF Pro,Inter",
+  "textFontFamily": "SF Pro,Inter",
   "monospaceFontFamily": "SauceCodePro Nerd Font Mono"
 }
