@@ -4,5 +4,7 @@
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "SF Pro,Inter",
   "textFontFamily": "SF Pro,Inter",
-  "monospaceFontFamily": "SauceCodePro Nerd Font Mono"
+  "monospaceFontFamily": "SauceCodePro Nerd Font Mono",
+  "baseFontSize": 16,
+  "showViewHeader": false
 }
