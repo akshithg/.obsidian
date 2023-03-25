@@ -2,5 +2,6 @@
   "promptDelete": false,
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "showFrontmatter": true
 }

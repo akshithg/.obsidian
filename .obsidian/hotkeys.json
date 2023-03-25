@@ -52,5 +52,15 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "obsidian-tasks-plugin:toggle-done": [],
+  "editor:toggle-checklist-status": [],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }
