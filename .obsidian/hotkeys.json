@@ -1,5 +1,4 @@
 {
-  "editor:toggle-bold": [],
   "obsidian-smarter-md-hotkeys:smarter-asterisk-bold": [
     {
       "modifiers": [
@@ -33,10 +32,7 @@
       "key": "I"
     }
   ],
-  "editor:toggle-italics": [],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "app:toggle-left-sidebar": [],
-  "editor:toggle-comments": [],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -53,14 +49,75 @@
       "key": "ArrowDown"
     }
   ],
-  "obsidian-tasks-plugin:toggle-done": [],
-  "editor:toggle-checklist-status": [],
   "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "'"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
     }
   ]
 }

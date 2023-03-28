@@ -5,6 +5,6 @@
   "interfaceFontFamily": "SF Pro,Inter",
   "textFontFamily": "SF Pro,Inter",
   "monospaceFontFamily": "SauceCodePro Nerd Font Mono",
-  "baseFontSize": 16,
+  "baseFontSize": 12,
   "showViewHeader": false
 }

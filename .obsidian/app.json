@@ -3,5 +3,6 @@
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "spellcheck": true
 }

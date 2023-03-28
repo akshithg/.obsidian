@@ -1,5 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-linter",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-sort-and-permute-lines"
 ]
